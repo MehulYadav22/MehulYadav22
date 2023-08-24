@@ -1,3 +1,4 @@
+![logo](https://github.com/MehulYadav22/MehulYadav22/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Mehul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
